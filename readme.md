@@ -1,19 +1,19 @@
-#Taskapp
+# Taskapp
 
 That's my Java Script workspace project of daily taks list.
 
 Simply basic work.. just which need to be done.
 
-#Roots
+## Roots
 
 Project was based on vanila java script and scss.
 
-#Idea
+## Idea
 
 Is one more daly task app which hold you dayly plan, easily can be range by imporatance.
 After all dask can be loced on done list or removed from the list.
 
-#Screen shot
+## Screen shot
 Full Screen
 ![Full screen](https://github.com/MIBuczek/Taskapp/blob/master/printscreen1.png)
 
