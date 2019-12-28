@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DAILY TASK APP</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <div class="logo-photo">
+            <h1 class="daily-header">DAILY TASK</h1>
+        </div>
+    </header>
+    <main>
+        <div class="panels">
+                <div class="addTaskPanel">
+                    <input id="taskInput" placeholder="Place your task here" type="text"><br>
+                    <button id="addTaskButton">Add</button>
+                </div>
+                <div class="taskPanel">
+                    <h2 class="header smaller">CURENT</h2>
+                    <ul id="taskList">
+                    </ul>
+                    <div class="buttonsPannel">
+                        <button class="editTasksButton">Edit</button><button class="saveTasksButton">Save</button>
+                    </div>
+                </div>
+                <div class="donePanel">
+                    <h2 class="header smaller">DONE</h2>
+                    <ul id="doneList">
+                    </ul>
+                    <button class="clearTasksButton">Clear</button>
+                </div>
+                <div class="contact"><span>workshop mibcoding&reg;	</span></div>
+            </div>
+    </main>
+</div>
+</body>
+<script src="js/app.js"></script>
+</html>
