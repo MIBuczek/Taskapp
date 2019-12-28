@@ -14,3 +14,8 @@ Is one more daly task app which hold you dayly plan, easily can be range by impo
 After all dask can be loced on done list or removed from the list.
 
 #Screen shot
+Full Screen
+![Full screen](https://github.com/MIBuczek/Taskapp/blob/master/printscreen1.png)
+
+Mobile Screen
+![Mobile screen](https://github.com/MIBuczek/Taskapp/blob/master/printscreen2.png)
